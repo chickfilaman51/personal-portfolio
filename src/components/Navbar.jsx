@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           <div>
             <Link to="/" className="text-white text-xl flex items-center">
-              <img className="w-14" src="../src/assets/logo.png" alt="Logo" />
+              <img className="w-14" src="/src/assets/logo.png" alt="Logo" />
               <span className="font-beckman lg:text-3xl text-lg font-bold text-blue-400 ml-2">Krish B.</span>
             </Link>
           </div>
