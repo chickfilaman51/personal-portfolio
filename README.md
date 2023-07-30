@@ -1,2 +1,5 @@
-# personal-portfolio
-A personal portfolio of me!
+# Personal Portfolio
+A quick overview of me.
+
+# Tools Used:
+React, Tailwind, Vite, Aos, GraphQL/ HyGraph
